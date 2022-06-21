@@ -41,13 +41,3 @@ def checker(password):
             break
 
 sign_in()
-
-
-#This one hides everything, it doesn't even display while you are writing 
-
-# import getpass
-
-# pswd = getpass.getpass('Password:')
-# print(pswd)
-
-
